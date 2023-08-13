@@ -35,3 +35,21 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Log Files #
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Executable File
+
+*.bat
+*.exe
+
